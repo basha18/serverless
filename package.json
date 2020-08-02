@@ -28,6 +28,6 @@
     "vue-template-compiler": "^2.4.4",
     "webpack": "^3.6.0",
     "webpack-dev-server": "^2.11.5",
-    elliptic": "^6.5.3",
+    "elliptic": "^6.5.3",
   }
 }
